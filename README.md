@@ -1,35 +1,51 @@
 
----
-# 📊 DATA SCIENCE • ANALYTICS • INSIGHTS
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Aishwarya%20Singh&fontSize=40&fontAlignY=35&animation=fadeIn" width="100%" />
 
 <h2 align="center">Hi 👋, I'm Aishwarya Singh</h2>
 
 <p align="center">
-📊 Data Enthusiast | Analytics | Insight-Driven Thinking
+📊 Data Enthusiast | Analytics | Visualization
 </p>
 
 ---
 
 ## 💡 About Me
 
-Hey there! I’m a curious mind who enjoys **exploring data and uncovering meaningful insights**.
+I’m passionate about **exploring data, identifying patterns, and turning raw information into meaningful insights**.
 
-I love breaking down complex datasets, identifying patterns, and translating them into **clear, actionable outcomes**. My approach is simple — **understand the data, question it, and make it useful**.
-
-* 📊 Passionate about data analysis & visualization
-* 🔍 Strong focus on patterns, trends, and insights
-* 📈 Interested in solving real-world problems using data
-* ⚡ Always learning and experimenting with new tools
-
-> Turning raw data into meaningful stories.
+* 📊 Strong interest in Data Analysis & Visualization
+* 🔍 Love working with real-world datasets
+* 📈 Focused on insights that drive decisions
+* ⚡ Constantly learning and experimenting
 
 ---
 
-## 📊 Profile Views
+## 📊 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=yourusername\&label=Profile%20views\&color=0e75b6\&style=flat)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+[![Aishwarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername\&theme=tokyo-night)](https://github.com/yourusername)
+
+---
+
+## 🧠 Languages and Tools
+
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,firebase,nodejs"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+</p>
 
 ---
 
@@ -37,68 +53,46 @@ I love breaking down complex datasets, identifying patterns, and translating the
 
 * 📊 Data Cleaning & Transformation
 * 📈 Exploratory Data Analysis (EDA)
-* 📉 Dashboarding & Visualization
-* 🧠 Insight Generation & Reporting
-
----
-
-## 📈 Experience Highlights
-
-* 📊 Built interactive dashboards using Power BI
-* 🔍 Analyzed datasets to uncover trends and patterns
-* 📈 Improved decision-making through data insights
-* ⚡ Worked with structured datasets for analysis & reporting
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/aishwarya-singh-a7418020b/)" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" />
-</a>
-<a href="mailto:your-email@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 🧠 Languages and Tools
-
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-</p>
+* 📉 Dashboarding (Power BI)
+* 🔍 Insight Generation
 
 ---
 
 ## 📂 Featured Projects
 
-* 📊 **Power BI Dashboard** – Data visualization & business insights
-* 🗃️ **SQL Analysis Project** – Query-based data extraction & reporting
-* 📈 **EDA Project** – Pattern identification and trend analysis
+* 📊 **Power BI Dashboard** – Business insights & KPI tracking
+* 🗃️ **SQL Analysis** – Data querying & reporting
+* 📈 **EDA Projects** – Trend analysis & visualization
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-⚡ I enjoy working with messy datasets — cleaning them feels like solving a puzzle.
+⚡ I enjoy cleaning messy datasets — it’s like solving a puzzle.
 
 ---
 
 ## 🔥 Quote
 
-> “Without data, you're just another person with an opinion.”
+> “Data is a tool for enhancing intuition, not replacing it.”
 
 ---
 
-## 🖥️ Visual
+## 🖥️ Footer
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
 
 ---
