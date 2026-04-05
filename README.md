@@ -33,19 +33,9 @@ Hey there! I'm a curious mind who loves exploring the world of data and discover
 
 ### Connect with me:
 
-<p align="left">
-<a href="[https://twitter.com/](https://x.com/combatantash)" target="blank">
-<img src="https://img.icons8.com/color/48/twitter--v1.png" height="30"/>
-</a>
-<a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/aishwarya-singh-a7418020b/)" target="blank">
-<img src="https://img.icons8.com/color/48/linkedin.png" height="30"/>
-</a>
-<a href="#">
-<img src="https://img.icons8.com/color/48/kaggle.png" height="30"/>
-</a>
-<a href="#">
-<img src="https://img.icons8.com/color/48/medium-logo.png" height="30"/>
-</a>
+<p align="left"> 
+<a href="https://x.com/combatantash" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter" height="30"/> </a> 
+<a href="https://www.linkedin.com/in/aishwarya-singh-a7418020b/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="30"/> </a> 
 </p>
 
 
