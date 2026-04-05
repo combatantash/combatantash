@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop" width="700" height="250"/>
+  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=1600&auto=format&fit=crop" width="700" height="250"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm Aishwarya Singh</h2>
