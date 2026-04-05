@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Data%20Analyst&fontSize=40&fontAlignY=40&fontColor=ffffff" width="100%"/>
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop" width="700" height="250"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm Aishwarya Singh</h2>
