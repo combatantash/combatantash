@@ -1,7 +1,7 @@
 # <p align="center">DATA SCIENTIST</p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600&auto=format&fit=crop" width="70%" />
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600&auto=format&fit=crop" width="700" height="250"/>
 </p>
 
 
