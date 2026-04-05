@@ -1,14 +1,12 @@
 # <p align="center">DATA SCIENTIST</p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abhishekkrthakur/abhishekkrthakur/master/images/banner.png" width="100%" />
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600&auto=format&fit=crop" width="100%" />
 </p>
 
----
 
 <h2 align="center">Hi 👋, I'm Aishwarya Singh</h2>
 
----
 
 <p align="center"><b>
 Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning —welcome to my GitHub
@@ -21,18 +19,17 @@ Hey there! I'm a curious mind who loves exploring the world of data and discover
 
 
 <p>
-🔮 Ask me about Data Science, Python, PostgreSQL 
+🔮 Ask me about <b>Data Science, Python, PostgreSQL</b>
 </p>
 
 <p>
-📫 How to reach me <a href="mailto:your-email@gmail.com">your-aishwaryasingh0818@gmail.com</a>  
+📫 How to reach me <a href="mailto:your-email@gmail.com">aishwaryasingh0818@gmail.com</a>  
 </p>
 
 <p>
-⚡ Fun fact My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!
+⚡ Fun fact <b>My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!</b>
 </p>
 
----
 
 ### Connect with me:
 
