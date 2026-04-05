@@ -35,19 +35,16 @@ Hey there! I'm a curious mind who loves exploring the world of data and discover
 
 <p align="left">
 <a href="[https://twitter.com/](https://x.com/combatantash)" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="40" />
+<img src="https://img.icons8.com/color/48/twitter--v1.png" height="30"/>
 </a>
 <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/aishwarya-singh-a7418020b/)" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" />
+<img src="https://img.icons8.com/color/48/linkedin.png" height="30"/>
 </a>
 <a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" height="30" width="40" />
+<img src="https://img.icons8.com/color/48/kaggle.png" height="30"/>
 </a>
 <a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height="30" width="40" />
-</a>
-<a href="#">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" height="30" width="40" />
+<img src="https://img.icons8.com/color/48/medium-logo.png" height="30"/>
 </a>
 </p>
 
